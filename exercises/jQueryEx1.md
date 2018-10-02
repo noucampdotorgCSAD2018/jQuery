@@ -1,8 +1,28 @@
 # jQuery Exercise 1
 
-## Download Repository
+## Retain Previous jQuery Folder
 
-Download this repository and place the folder ``jQuery`` in your ``xampp/htdocs`` folder
+1.	Please RENAME your existing ``jQuery`` folder as ``jQueryOLD`` before cloning below.
+
+
+## Clone the Remote Repository
+
+1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard @ ``CCDV_CP701: Client Side Application Development (2018/19) > Content > jQuery``
+
+1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
+
+1.	Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs   
+	$ git clone <URL> jQuery
+	$ cd jQuery
+	$ ls
+	$ git status
+
+	```
+
+Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
 
 
 ## Part 1 — Hello jQuery
