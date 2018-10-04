@@ -5,7 +5,7 @@
 
 ```
 $ cd /DRIVE/xampp/htdocs/jQuery
-$ git pull --no-edit https://github.com/noucampdotorgSSAD/jQuery.git latest
+$ git pull --no-edit https://github.com/noucampdotorgCSAD/jQuery.git latest
 $ git status
 
 ```
